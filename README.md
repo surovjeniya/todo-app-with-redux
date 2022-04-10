@@ -1,4 +1,3 @@
 # Todo App with Redux
 
-Watch here https://glistening-bienenstitch-d6171d.netlify.app
-
+Watch here https://fanciful-paletas-cd6bba.netlify.app/
