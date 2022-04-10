@@ -1,0 +1,16 @@
+.todo-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    border: 1px solid #ececec;
+    border-radius: 5px;
+    &__title {
+        &.important {
+            font-weight: bold;
+        }
+        &.done {
+            text-decoration: line-through;
+        }
+    }
+}
